@@ -1,0 +1,15 @@
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/bin/Debug/net7.0/OOP-L3
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/bin/Debug/net7.0/OOP-L3.deps.json
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/bin/Debug/net7.0/OOP-L3.runtimeconfig.json
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/bin/Debug/net7.0/OOP-L3.dll
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/bin/Debug/net7.0/OOP-L3.pdb
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.csproj.AssemblyReference.cache
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.AssemblyInfoInputs.cache
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.AssemblyInfo.cs
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.csproj.CoreCompileInputs.cache
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.dll
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/refint/OOP-L3.dll
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.pdb
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/OOP-L3.genruntimeconfig.cache
+/Users/vladfrolov/University/4th Semester/OOP/L3/OOP-L3/OOP-L3/obj/Debug/net7.0/ref/OOP-L3.dll
